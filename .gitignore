@@ -130,3 +130,5 @@ dmypy.json
 
 # exclude output frames from repository
 frames/*.png
+#oh, and any movies, too.
+*.mp4
