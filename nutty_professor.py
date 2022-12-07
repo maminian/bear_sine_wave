@@ -70,7 +70,7 @@ def bearstamp(axis, x0, y0, size=1, rot=0):
     
     return obj
 #
-fig,ax = plt.subplots(constrained_layout=True)
+fig,ax = plt.subplots(constrained_layout=True, figsize=(12.6,4.1))
 
 x = np.linspace(0, 2*np.pi, 13)[:-1]
 y = np.sin(x)
@@ -82,7 +82,7 @@ ax.set_ylim([min(y)-0.4, max(y)+0.4])
 
 
 MAXBEARS = 9
-MAXFRAMES = 240
+MAXFRAMES = 120
 count = 0
 coll = []
 
