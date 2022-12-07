@@ -10,3 +10,10 @@ Here's a frame of it!
 * matplotlib
 * pandas
 * os
+
+# data
+the file bear.csv is the result of my custom processing of the following svg file via wikimedia commons:
+
+https://commons.wikimedia.org/wiki/File:Bear_of_California_%28black%29.svg
+
+Licensing notes on that page indicate it is in the public domain.
