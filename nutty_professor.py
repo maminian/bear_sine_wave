@@ -7,6 +7,8 @@ import os
 
 plt.style.use('dark_background')
 
+# hello, github.
+
 ##
 
 # load the "stamp" once; trim out detail
@@ -81,8 +83,8 @@ ax.set_xlim([min(x)-0.5, max(x)+0.5])
 ax.set_ylim([min(y)-0.4, max(y)+0.4])
 
 
-MAXBEARS = 9
-MAXFRAMES = 120
+MAXBEARS = 23
+MAXFRAMES = 240
 count = 0
 coll = []
 
